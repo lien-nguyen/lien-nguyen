@@ -27,7 +27,7 @@ Currently working on development of the enterprise DWH using open source technol
 
 ## 🧠 Continuous Learning
 
-- 📚 *Postgraduate Program in DevOps* (2024–)
+- 📚 *Postgraduate Program in DevOps* (2024–2025)
 - 🤖 *Generative AI for Data Scientists Specialization*, Coursera (2024)
 - 🧪 *Software Engineering Essentials by IBM*, Coursera (2024)
 
