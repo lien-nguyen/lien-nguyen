@@ -25,7 +25,7 @@ at Gartenbau Versicherung
 - **Languages**: Python, SQL, Bash
 - **Tools & Frameworks**: Docker, Git, Airflow, dbt, Dash, Jupyter, Streamlit, Ansible
 - **Databases**: PostgreSQL, Amazon Redshift, RDS
-- **Cloud & DevOps**: AWS, GitLab CI/CD, Linux (Ubuntu & Suse)
+- **Cloud & DevOps**: AWS, GitLab CI/CD, Linux (Ubuntu)
 - **Visualisation**: Qlik, Tableau, Dash Plotly
 - **AI & ML**: Scikit-Learn, NLP, Generative AI (HuggingFace, ChatGPT, Prompt Engineering)
 
