@@ -12,7 +12,6 @@ I build solutions that bridge business goals and technical implementation — fr
 ## 💼 Current Role
 
 **Senior Data Analyst (transitioning to DevOps Engineer)**  
-at Gartenbau Versicherung
 
 - Developing the enterprise DWH using open-source technologies (Python, PostgreSQL, Docker, Bash, Airflow)
 - Supporting regulatory reporting, dashboards & ad hoc analytics
