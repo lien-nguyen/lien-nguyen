@@ -1,55 +1,112 @@
-# 👋 Hi, I’m Lien Nguyen!
+# 👋 Hi, I'm Lien Nguyen!
 
-🎓 *“An advocate for optimization and transformation of BI processes using state-of-the-art technologies and tools and an active life-long learner.”*
+> *"Building before teaching. Learning by creating. Continuously improving through action."*
 
-I'm a Senior Full-Stack Data Analyst evolving into **DevOps Engineer** — bringing Open Source tools, automation, and platform thinking into real-world data systems.  
-Introduced Linux Ubuntu and modern Open Source stack alongside existing Suse systems — now powering the company’s new infrastructure. Sharing lessons from data platforms, DevOps pipelines, and building reproducible environments from scratch.
+I'm a **DevOps Engineer** with a background in Data Analytics and Business Intelligence, passionate about building reliable platforms, automating workflows, and transforming ideas into production-ready solutions.
 
-I build solutions that bridge business goals and technical implementation — from data pipelines and analytics to infrastructure automation, platform setup, and machine learning prototypes.
+My journey began in data analytics but gradually expanded into Linux, Docker, infrastructure automation, CI/CD, and AI-powered workflows. Today, I focus on bridging software development, operations, and business processes through modern engineering practices.
 
----
-
-## 💼 Current Role
-
-**Senior Data Analyst (transitioning to DevOps Engineer)**  
-
-- Developing the enterprise DWH using open-source technologies (Python, PostgreSQL, Docker, Bash, Airflow)
-- Supporting regulatory reporting, dashboards & ad hoc analytics
-- Contributing to infrastructure automation and platform setup using **Linux, Ansible, and CI/CD pipelines**
+I believe the best way to truly understand a technology is to build real systems with it.
 
 ---
 
-## 🛠️ Tech Stack
+# 💼 Current Role
 
-- **Languages**: Python, SQL, Bash
-- **Tools & Frameworks**: Docker, Git, Airflow, dbt, Dash, Jupyter, Streamlit, Ansible
-- **Databases**: PostgreSQL, Amazon Redshift, RDS
-- **Cloud & DevOps**: AWS, GitLab CI/CD, Linux (Ubuntu)
-- **Visualisation**: Qlik, Tableau, Dash Plotly
-- **AI & ML**: Scikit-Learn, NLP, Generative AI (HuggingFace, ChatGPT, Prompt Engineering)
+**DevOps Engineer**
 
----
+My current responsibilities include:
 
-## 🧠 Continuous Learning
-
-- 📚 *Postgraduate Program in DevOps* (2024–2025)
-- 🤖 *Generative AI for Data Scientists Specialization*, Coursera (2024)
-- 🧪 *Software Engineering Essentials by IBM*, Coursera (2024)
+- Developing and maintaining internal business applications
+- Automating business processes using Python and modern DevOps practices
+- Building and maintaining Linux-based environments
+- Working with Docker, GitLab CI/CD and Ansible
+- Integrating AI into business workflows to improve productivity and automation
+- Supporting enterprise data platforms and reporting solutions
 
 ---
 
-## 🚀 Projects & Interests
+# 🛠️ Tech Stack
 
-- Building a **modern data warehouse with open-source tools**
-- Designing reproducible **server environments and CI/CD pipelines**
-- Automating **platform infrastructure using Ansible and Linux**
-- Exploring **LLMs & GenAI for BI automation**
-- Coaching and mentoring
+### Languages
+
+- Python
+- SQL
+- Bash
+
+### DevOps & Platform Engineering
+
+- Docker
+- Linux (Ubuntu)
+- Git
+- GitLab CI/CD
+- Ansible
+
+### Data Engineering
+
+- PostgreSQL
+- Apache Airflow
+- dbt
+- Amazon Redshift
+- AWS RDS
+
+### Data & Visualisation
+
+- Dash
+- Plotly
+- Qlik
+- Tableau
+- Jupyter Notebook
+- Streamlit
+
+### AI
+
+- Generative AI
+- HuggingFace
+- OpenAI
+- Prompt Engineering
+- Scikit-Learn
+- NLP
 
 ---
 
-## 📫 Let’s Connect!
+# 📚 Continuous Learning
 
-- GitHub: [@lien-nguyen](https://github.com/lien-nguyen)
-- LinkedIn: [nguyen-thi-bich-lien](https://www.linkedin.com/in/nguyen-thi-bich-lien)
-- Portfolio: [lien-nguyen.github.io](https://lien-nguyen.github.io/)
+- Postgraduate Program in DevOps (2024–2025)
+- Generative AI for Data Scientists Specialization (Coursera)
+- IBM Software Engineering Essentials
+
+Currently focusing on:
+
+- AI for DevOps
+- Workflow Automation
+- Infrastructure as Code
+- Platform Engineering
+
+---
+
+# 🚀 Current Projects
+
+- Internal workflow automation platform
+- AI-assisted business process automation
+- Linux & Docker platform engineering
+- CI/CD and infrastructure automation
+- Build2Teach — learning by building
+
+---
+
+# 🌱 Philosophy
+
+I believe that knowledge should be built, not merely consumed.
+
+> **Build → Understand → Teach**
+
+I don't teach what I read.
+
+I teach what I build.
+
+---
+
+# 📫 Connect
+
+- GitHub: https://github.com/lien-nguyen
+- LinkedIn: https://www.linkedin.com/in/nguyen-thi-bich-lien
